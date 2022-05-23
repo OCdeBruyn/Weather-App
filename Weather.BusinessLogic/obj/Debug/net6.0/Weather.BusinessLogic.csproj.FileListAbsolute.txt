@@ -1,0 +1,12 @@
+C:\Users\ocdeb\source\repos\Weather App\Weather.BusinessLogic\bin\Debug\net6.0\Weather.BusinessLogic.deps.json
+C:\Users\ocdeb\source\repos\Weather App\Weather.BusinessLogic\bin\Debug\net6.0\Weather.BusinessLogic.dll
+C:\Users\ocdeb\source\repos\Weather App\Weather.BusinessLogic\bin\Debug\net6.0\Weather.BusinessLogic.pdb
+C:\Users\ocdeb\source\repos\Weather App\Weather.BusinessLogic\obj\Debug\net6.0\Weather.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\ocdeb\source\repos\Weather App\Weather.BusinessLogic\obj\Debug\net6.0\Weather.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ocdeb\source\repos\Weather App\Weather.BusinessLogic\obj\Debug\net6.0\Weather.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\ocdeb\source\repos\Weather App\Weather.BusinessLogic\obj\Debug\net6.0\Weather.BusinessLogic.AssemblyInfo.cs
+C:\Users\ocdeb\source\repos\Weather App\Weather.BusinessLogic\obj\Debug\net6.0\Weather.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\ocdeb\source\repos\Weather App\Weather.BusinessLogic\obj\Debug\net6.0\Weather.BusinessLogic.dll
+C:\Users\ocdeb\source\repos\Weather App\Weather.BusinessLogic\obj\Debug\net6.0\refint\Weather.BusinessLogic.dll
+C:\Users\ocdeb\source\repos\Weather App\Weather.BusinessLogic\obj\Debug\net6.0\Weather.BusinessLogic.pdb
+C:\Users\ocdeb\source\repos\Weather App\Weather.BusinessLogic\obj\Debug\net6.0\ref\Weather.BusinessLogic.dll

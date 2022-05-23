@@ -1,0 +1,15 @@
+C:\Users\ocdeb\source\repos\Weather App\Weather.Plugins.EFCore\bin\Debug\net6.0\Weather.Plugins.EFCore.deps.json
+C:\Users\ocdeb\source\repos\Weather App\Weather.Plugins.EFCore\bin\Debug\net6.0\Weather.Plugins.EFCore.dll
+C:\Users\ocdeb\source\repos\Weather App\Weather.Plugins.EFCore\bin\Debug\net6.0\Weather.Plugins.EFCore.pdb
+C:\Users\ocdeb\source\repos\Weather App\Weather.Plugins.EFCore\bin\Debug\net6.0\Weather.BusinessLogic.dll
+C:\Users\ocdeb\source\repos\Weather App\Weather.Plugins.EFCore\bin\Debug\net6.0\Weather.BusinessLogic.pdb
+C:\Users\ocdeb\source\repos\Weather App\Weather.Plugins.EFCore\obj\Debug\net6.0\Weather.Plugins.EFCore.csproj.AssemblyReference.cache
+C:\Users\ocdeb\source\repos\Weather App\Weather.Plugins.EFCore\obj\Debug\net6.0\Weather.Plugins.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ocdeb\source\repos\Weather App\Weather.Plugins.EFCore\obj\Debug\net6.0\Weather.Plugins.EFCore.AssemblyInfoInputs.cache
+C:\Users\ocdeb\source\repos\Weather App\Weather.Plugins.EFCore\obj\Debug\net6.0\Weather.Plugins.EFCore.AssemblyInfo.cs
+C:\Users\ocdeb\source\repos\Weather App\Weather.Plugins.EFCore\obj\Debug\net6.0\Weather.Plugins.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\ocdeb\source\repos\Weather App\Weather.Plugins.EFCore\obj\Debug\net6.0\Weather.Plugins.EFCore.csproj.CopyComplete
+C:\Users\ocdeb\source\repos\Weather App\Weather.Plugins.EFCore\obj\Debug\net6.0\Weather.Plugins.EFCore.dll
+C:\Users\ocdeb\source\repos\Weather App\Weather.Plugins.EFCore\obj\Debug\net6.0\refint\Weather.Plugins.EFCore.dll
+C:\Users\ocdeb\source\repos\Weather App\Weather.Plugins.EFCore\obj\Debug\net6.0\Weather.Plugins.EFCore.pdb
+C:\Users\ocdeb\source\repos\Weather App\Weather.Plugins.EFCore\obj\Debug\net6.0\ref\Weather.Plugins.EFCore.dll

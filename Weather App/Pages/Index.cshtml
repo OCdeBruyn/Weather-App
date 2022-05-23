@@ -1,0 +1,54 @@
+﻿@page
+@using Weather.BusinessLogic.Interfaces
+@model IndexModel
+@inject IWeatherReportRepository weatherReportRepository
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <form asp-page-handler="button" method="post">
+        <button class="btn btn-default" style="border: 2px solid #868B94;
+                                                  background-color: white;
+                                                  color: black;
+                                                  padding: 14px 28px;
+                                                  font-size: 16px;
+                                                  cursor: pointer;">Get New Report</button>
+    </form>
+</div>
+
+<section class="vh-100">
+    <div class="container py-5">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col-md-10 col-lg-8 col-xl-8">
+                <div class="card" style="color: #4B515D; border-radius: 35px;">
+                    <div class="card-body p-4">
+                        <div class="d-flex">
+                            <h6 class="flex-grow-1"> @Html.DisplayFor(index => index.lastReport.Location)</h6>
+                            <h6> @Html.DisplayFor(index => index.lastReport.TimeOfMeasurement)</h6>
+                        </div>
+
+                        <div class="d-flex flex-column text-center mt-5 mb-4">
+                            <h6 class="display-4 mb-0 font-weight-bold" style="color: @Html.DisplayFor(index => index.temperatureColour);">  @Html.DisplayFor(index => index.lastReport.Temperature)°C </h6>
+                            <span class="small" style="color: #868B94">@Html.DisplayFor(index => index.lastReport.WeatherDescription)</span>
+                        </div>
+
+                        <div class="d-flex align-items-center">
+                            <div class="flex-grow-1" style="font-size: 1rem;">
+                                <div><span style="color: @Html.DisplayFor(index => index.windSpeedColour);" class="ms-1">Wind Speed: @Html.DisplayFor(index => index.lastReport.WindSpeed) km/h</span></div>
+                                <div><span style="color: @Html.DisplayFor(index => index.airHumidityColour);" class="ms-1">Air Humidity @Html.DisplayFor(index => index.lastReport.AirHumidity)% </span></div>
+                                <div><span style="color: @Html.DisplayFor(index => index.cloudCoverColour);" class="ms-1">Cloud Cover @Html.DisplayFor(index => index.lastReport.CloudCover)</span></div>
+                                <div><span style="color: #868B94;" class="ms-1">Wind Direction @Html.DisplayFor(index => index.lastReport.WindDirection)</span></div>
+                            </div>
+                            <div>
+                                <img src="@Html.DisplayFor(index => index.reportImage)"
+                                     width="380px">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>

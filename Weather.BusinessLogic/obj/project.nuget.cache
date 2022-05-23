@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jW13jN2TFUprQjQZL5qnY7UDmJX+uzs3Ec9SlxKs3dG0T7m+TdIYL7wbgTDDhtjZW8n5BW/J7m9Y2uO8Irsv7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ocdeb\\source\\repos\\Weather App\\Weather.BusinessLogic\\Weather.BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ocdeb\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
